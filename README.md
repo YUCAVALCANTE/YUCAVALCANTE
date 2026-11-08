@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://yucavalcante.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-yucavalcante.github.io-16181b?style=flat"></a>
+  <a href="https://yucavalcante.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-yucavalcante.com-16181b?style=flat"></a>
   <a href="https://www.linkedin.com/in/yucavalcante/"><img src="https://img.shields.io/badge/LinkedIn-yucavalcante-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
@@ -23,10 +23,10 @@ Escrevo sobre ML, visualização e previsão no [LinkedIn](https://www.linkedin.
 
 | Projeto | Área | Destaques |
 |---|---|---|
-| [**Atrasos de voos no Brasil**](https://github.com/YUCAVALCANTE/atrasos-voos-brasil) · [dashboard](https://yucavalcante.github.io/voos/) | Machine Learning | 2,5 mi de voos da ANAC · validação temporal · LightGBM vs. baselines (AUC 0,73) · SHAP · MLflow · API FastAPI · Docker · CI |
+| [**Atrasos de voos no Brasil**](https://github.com/YUCAVALCANTE/atrasos-voos-brasil) · [dashboard](https://yucavalcante.com/voos/) | Machine Learning | 2,5 mi de voos da ANAC · validação temporal · LightGBM vs. baselines (AUC 0,73) · SHAP · MLflow · API FastAPI · Docker · CI |
 | **RAG com avaliação quantitativa** | LLMs / RAG | Busca híbrida (BM25 + embeddings) · reranker · respostas com citação · métricas de recuperação e fidelidade |
 | **Previsão com dados externos** | Deep Learning | PyTorch · LSTM e Transformer temporal vs. modelos clássicos · validação temporal · intervalos de incerteza |
-| [**Comércio exterior brasileiro**](https://github.com/YUCAVALCANTE/comercio-exterior-brasileiro) · [Projeção até 2030](https://yucavalcante.github.io/comercio-exterior-brasileiro/) · [Aeroportos e projeção por produto](https://yucavalcante.github.io/comercio-exterior-brasileiro/?visao=aeroportos) | Engenharia e Análise de Dados | Comex Stat · DuckDB + dbt · validação temporal · exportações por aeroporto, produto e destino |
+| [**Comércio exterior brasileiro até 2030**](https://github.com/YUCAVALCANTE/comercio-exterior-brasileiro) · [painel](https://yucavalcante.com/comercio-exterior-brasileiro/) · [aeroportos](https://yucavalcante.com/comercio-exterior-brasileiro/?visao=aeroportos) | Séries temporais e Engenharia de Dados | Comex Stat desde 1997 · ingênuo sazonal vs. Holt-Winters vs. log-linear em validação temporal · faixas empíricas até 2030 · DuckDB + dbt · Streamlit |
 
 ### Estudos e artigos
 
