@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://yucavalcante.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-yucavalcante.github.io-16181b?style=flat"></a>
   <a href="https://www.linkedin.com/in/yucavalcante/"><img src="https://img.shields.io/badge/LinkedIn-yucavalcante-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
@@ -22,7 +23,7 @@ Escrevo sobre ML, visualização e previsão no [LinkedIn](https://www.linkedin.
 
 | Projeto | Área | Destaques |
 |---|---|---|
-| [**Atrasos de voos no Brasil**](https://github.com/YUCAVALCANTE/atrasos-voos-brasil) · [dashboard](https://claude.ai/artifact/1tUwpod63gd3NEGtehFPF9) | Machine Learning | 2,5 mi de voos da ANAC · validação temporal · LightGBM vs. baselines (AUC 0,73) · SHAP · MLflow · API FastAPI · Docker · CI |
+| [**Atrasos de voos no Brasil**](https://github.com/YUCAVALCANTE/atrasos-voos-brasil) · [dashboard](https://yucavalcante.github.io/voos/) | Machine Learning | 2,5 mi de voos da ANAC · validação temporal · LightGBM vs. baselines (AUC 0,73) · SHAP · MLflow · API FastAPI · Docker · CI |
 | **RAG com avaliação quantitativa** | LLMs / RAG | Busca híbrida (BM25 + embeddings) · reranker · respostas com citação · métricas de recuperação e fidelidade |
 | **Previsão com dados externos** | Deep Learning | PyTorch · LSTM e Transformer temporal vs. modelos clássicos · validação temporal · intervalos de incerteza |
 | **Comércio exterior brasileiro** | Engenharia e Análise de Dados | Comex Stat · DuckDB + dbt · análise estatística · painel interativo |
