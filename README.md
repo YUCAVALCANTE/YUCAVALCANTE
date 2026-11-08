@@ -18,11 +18,11 @@ Escrevo sobre ML, visualização e previsão no [LinkedIn](https://www.linkedin.
 
 ### Projetos em destaque
 
-> Portfólio em construção — cada projeto ponta a ponta, com dados reais, avaliação séria e README em formato de relatório.
+> Cada projeto é ponta a ponta, com dados reais, avaliação séria e README em formato de relatório. Os que ainda não têm link estão em construção.
 
 | Projeto | Área | Destaques |
 |---|---|---|
-| **Atrasos de voos no Brasil** | Machine Learning | Microdados da ANAC · LightGBM vs. baseline · SHAP · MLflow · API FastAPI · Docker |
+| [**Atrasos de voos no Brasil**](https://github.com/YUCAVALCANTE/atrasos-voos-brasil) · [dashboard](https://claude.ai/artifact/1tUwpod63gd3NEGtehFPF9) | Machine Learning | 2,5 mi de voos da ANAC · validação temporal · LightGBM vs. baselines (AUC 0,73) · SHAP · MLflow · API FastAPI · Docker · CI |
 | **RAG com avaliação quantitativa** | LLMs / RAG | Busca híbrida (BM25 + embeddings) · reranker · respostas com citação · métricas de recuperação e fidelidade |
 | **Previsão com dados externos** | Deep Learning | PyTorch · LSTM e Transformer temporal vs. modelos clássicos · validação temporal · intervalos de incerteza |
 | **Comércio exterior brasileiro** | Engenharia e Análise de Dados | Comex Stat · DuckDB + dbt · análise estatística · painel interativo |
