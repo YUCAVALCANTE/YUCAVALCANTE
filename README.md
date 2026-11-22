@@ -1,6 +1,6 @@
 <h1 align="center">Yury Cavalcante</h1>
 <p align="center">
-  <b>Data Science · Machine Learning · Visão Computacional · RAG</b><br>
+  <b>Data Science · Machine Learning · Deep Learning · Visão Computacional · RAG</b><br>
   Mestre em Gestão de Projetos · Especialista em Data Science e Business Intelligence
 </p>
 
