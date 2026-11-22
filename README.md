@@ -1,6 +1,6 @@
 <h1 align="center">Yury Cavalcante</h1>
 <p align="center">
-  <b>Data Science · Machine Learning · Deep Learning · RAG</b><br>
+  <b>Data Science · Machine Learning · Visão Computacional · RAG</b><br>
   Mestre em Gestão de Projetos · Especialista em Data Science e Business Intelligence
 </p>
 
@@ -24,6 +24,7 @@ Escrevo sobre ML, visualização e previsão no [LinkedIn](https://www.linkedin.
 | Projeto | Área | Destaques |
 |---|---|---|
 | [**Atrasos de voos no Brasil**](https://github.com/YUCAVALCANTE/atrasos-voos-brasil) · [dashboard](https://yucavalcante.com/voos/) | Machine Learning | 2,5 mi de voos da ANAC · validação temporal · LightGBM vs. baselines (AUC 0,73) · SHAP · MLflow · API FastAPI · Docker · CI |
+| [**Como uma IA enxerga um jogo e decide onde clicar**](https://github.com/YUCAVALCANTE/agente-revoada) · [demo](https://yucavalcante.com/agente-revoada/) | Visão computacional | Jogo original como gerador de dados rotulados · YOLOv8 COCO vs. treinado no jogo (o COCO chama as aves de "kite") · políticas de mira sob latência · ONNX no navegador com Web Worker · testes e CI |
 | **RAG com avaliação quantitativa** | LLMs / RAG | Busca híbrida (BM25 + embeddings) · reranker · respostas com citação · métricas de recuperação e fidelidade |
 | **Previsão com dados externos** | Deep Learning | PyTorch · LSTM e Transformer temporal vs. modelos clássicos · validação temporal · intervalos de incerteza |
 | [**Comércio exterior brasileiro até 2030**](https://github.com/YUCAVALCANTE/comercio-exterior-brasileiro) · [painel](https://yucavalcante.com/comercio-exterior-brasileiro/) · [aeroportos](https://yucavalcante.com/comercio-exterior-brasileiro/?visao=aeroportos) | Séries temporais e Engenharia de Dados | Comex Stat desde 1997 · ingênuo sazonal vs. Holt-Winters vs. log-linear em validação temporal · faixas empíricas até 2030 · DuckDB + dbt · Streamlit |
