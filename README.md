@@ -1,6 +1,6 @@
 <h1 align="center">Yury Cavalcante</h1>
 <p align="center">
-  <b>Data Science · Machine Learning · Deep Learning · Visão Computacional · RAG</b><br>
+  <b>Data Science · Machine Learning · Deep Learning · Visão Computacional · LLMs</b><br>
   Mestre em Gestão de Projetos · Especialista em Data Science e Business Intelligence
 </p>
 
@@ -15,21 +15,21 @@
 
 Trabalho na interseção entre **gestão e ciência de dados**: transformar dados públicos e de negócio em modelos que respondem perguntas reais — com avaliação rigorosa, explicabilidade e código pronto para produção.
 
-Escrevo sobre ML, visualização e previsão no [LinkedIn](https://www.linkedin.com/in/yucavalcante/). Todo artigo tem o código aberto aqui.
+Escrevo a série **IA sem mágica** no [Medium](https://medium.com/@yucavalcante) e sobre ML, visualização e previsão no [LinkedIn](https://www.linkedin.com/in/yucavalcante/). Todo artigo tem o código aberto aqui, e os projetos mais recentes rodam direto no navegador.
 
 ### Projetos em destaque
 
-> Cada projeto é ponta a ponta, com dados reais, avaliação séria e README em formato de relatório. Os que ainda não têm link estão em construção.
+> Cada projeto é ponta a ponta, com dados reais, avaliação séria e README em formato de relatório. Os dois últimos, sem link, estão em construção.
 
 | Projeto | Área | Destaques |
 |---|---|---|
 | [**Atrasos de voos no Brasil**](https://github.com/YUCAVALCANTE/atrasos-voos-brasil) · [dashboard](https://yucavalcante.com/voos/) | Machine Learning | 2,5 mi de voos da ANAC · validação temporal · LightGBM vs. baselines (AUC 0,73) · SHAP · MLflow · API FastAPI · Docker · CI |
 | [**Como uma IA enxerga um jogo e decide onde clicar**](https://github.com/YUCAVALCANTE/agente-revoada) · [demo](https://yucavalcante.com/agente-revoada/) | Visão computacional | Jogo original como gerador de dados rotulados · YOLOv8 COCO vs. treinado no jogo (o COCO chama as aves de "kite") · políticas de mira sob latência · ONNX no navegador com Web Worker · testes e CI |
 | [**Carros que ninguém projetou: algoritmos genéticos**](https://github.com/YUCAVALCANTE/algoritmos-geneticos) · [demo](https://yucavalcante.com/algoritmos-geneticos/) | Otimização / Algoritmos genéticos | Carros 2D evoluindo ao vivo no navegador · física determinística (mesmo resultado no Node e no navegador) · aptidão mal formulada (reward hacking) · diversidade e elitismo · generalização para pistas novas · AG vs. busca aleatória e hill climbing · testes e CI |
-| [**LLMs não pensam em palavras**](https://github.com/YUCAVALCANTE/llm-por-dentro) · [demo](https://yucavalcante.com/llm-por-dentro/) | Modelos de linguagem / NLP | GPT-2 português rodando no navegador (Transformers.js + onnxruntime-web) · tokens, embeddings, atenção por camada e cabeça, logits → softmax com temperatura, top-k e top-p · sentidos de "banco" camada a camada · custo em tokens PT × EN em 4 tokenizadores · atenção × atribuição · testes e CI |
+| [**LLMs não pensam em palavras**](https://github.com/YUCAVALCANTE/llm-por-dentro) · [demo](https://yucavalcante.com/llm-por-dentro/) | Modelos de linguagem / NLP | GPT-2 português rodando no navegador (Transformers.js + ONNX) · tokens, vetores, atenção e próximo token ao vivo · sentidos de "banco" camada a camada · custo em tokens PT × EN · atenção × atribuição · testes e CI |
+| [**Comércio exterior brasileiro até 2030**](https://github.com/YUCAVALCANTE/comercio-exterior-brasileiro) · [painel](https://yucavalcante.com/comercio-exterior-brasileiro/) · [aeroportos](https://yucavalcante.com/comercio-exterior-brasileiro/?visao=aeroportos) | Séries temporais e Engenharia de Dados | Comex Stat desde 1997 · ingênuo sazonal vs. Holt-Winters vs. log-linear em validação temporal · faixas empíricas até 2030 · DuckDB + dbt · Streamlit |
 | **RAG com avaliação quantitativa** | LLMs / RAG | Busca híbrida (BM25 + embeddings) · reranker · respostas com citação · métricas de recuperação e fidelidade |
 | **Previsão com dados externos** | Deep Learning | PyTorch · LSTM e Transformer temporal vs. modelos clássicos · validação temporal · intervalos de incerteza |
-| [**Comércio exterior brasileiro até 2030**](https://github.com/YUCAVALCANTE/comercio-exterior-brasileiro) · [painel](https://yucavalcante.com/comercio-exterior-brasileiro/) · [aeroportos](https://yucavalcante.com/comercio-exterior-brasileiro/?visao=aeroportos) | Séries temporais e Engenharia de Dados | Comex Stat desde 1997 · ingênuo sazonal vs. Holt-Winters vs. log-linear em validação temporal · faixas empíricas até 2030 · DuckDB + dbt · Streamlit |
 
 ### Estudos e artigos
 
@@ -45,6 +45,9 @@ Escrevo sobre ML, visualização e previsão no [LinkedIn](https://www.linkedin.
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
